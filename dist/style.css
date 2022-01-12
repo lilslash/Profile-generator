@@ -1,0 +1,19 @@
+body{
+    background-color: slategray;
+}
+
+header{
+    background-color: #4935cb ;
+    margin: 0;
+    border: solid #4935cb;
+    
+}
+
+.card{
+    color: #2f345c;
+    margin: 20px;
+}
+h4 {
+    color: red
+    ;
+}
